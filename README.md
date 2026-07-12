@@ -1,6 +1,6 @@
 ## Hello there!
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zbyju&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) [![roadmap.sh](https://roadmap.sh/card/wide/648c172535999ac82376b41a?variant=dark)](https://roadmap.sh)
+[![GitHub Trophy](https://github-trophies.devomb.com/?username=zbyju&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) [![roadmap.sh](https://roadmap.sh/card/wide/648c172535999ac82376b41a?variant=dark)](https://roadmap.sh)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zbyju&theme=dark)](https://git.io/streak-stats) ![Codewars](https://github.r2v.ch/codewars?user=ogturu)
 
