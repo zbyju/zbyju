@@ -47,11 +47,23 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Trophy](https://github-trophies.devomb.com/?username=zbyju&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) [![roadmap.sh](https://roadmap.sh/card/wide/648c172535999ac82376b41a?variant=dark)](https://roadmap.sh)
+### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zbyju&theme=dark)](https://git.io/streak-stats) ![Codewars](https://github.r2v.ch/codewars?user=ogturu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zbyju&theme=dark)](https://git.io/streak-stats)
 
-[![Stats](https://github-stats-extended.vercel.app/api?username=zbyju&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/stats-organization/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zbyju&hide=jupyter%20notebook,scss,html,vue,astro,shell&theme=dark&langs_count=10)](https://github.com/stats-organization/github-stats-extended)
+### 📈 Stats
+
+[![Stats](https://github-stats-extended.vercel.app/api?username=zbyju&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+
+### 💻 Languages
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zbyju&hide=jupyter%20notebook,scss,html,vue,astro,shell&theme=dark&langs_count=10)](https://github.com/stats-organization/github-stats-extended)
+
+### 🥋 Codewars
+
+![Codewars](https://github.r2v.ch/codewars?user=ogturu)
+
+### 🧩 LeetCode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Turu?theme=dark&ext=activity)
 
