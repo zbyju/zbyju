@@ -4,4 +4,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zbyju&theme=dark)](https://git.io/streak-stats) ![Codewars](https://github.r2v.ch/codewars?user=ogturu)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zbyju&hide=jupyter-notebook,scss,html,vue,astro,shell&theme=dark&langs_count=10)](https://github.com/stats-organization/github-stats-extended) ![Leetcode Stats](https://leetcard.jacoblin.cool/Turu?theme=dark&ext=activity)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zbyju&hide=jupyter%20notebook,scss,html,vue,astro,shell&theme=dark&langs_count=10)](https://github.com/stats-organization/github-stats-extended) ![Leetcode Stats](https://leetcard.jacoblin.cool/Turu?theme=dark&ext=activity)
